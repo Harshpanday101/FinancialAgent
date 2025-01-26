@@ -143,7 +143,7 @@ Contributions are welcome! To contribute:
 
 ## **Contact**
 For any questions or feedback, reach out:
-- **Email**: [harshpanday101@gmaiul.com](harshpanday101@gmail.com)
+- **Email**: [harshpanday101@gmail.com](harshpanday101@gmail.com)
 - **GitHub**: [Harshpanday101](https://github.com/Harshpanday101)
 
 ---
